@@ -1,0 +1,7 @@
+C:\Users\Akron1\source\repos\Card Game Fine\Card Game Fine\obj\Debug\Card Game Fine.csprojAssemblyReference.cache
+C:\Users\Akron1\source\repos\Card Game Fine\Card Game Fine\obj\Debug\Card Game Fine.csproj.CoreCompileInputs.cache
+C:\Users\Akron1\source\repos\Card Game Fine\Card Game Fine\bin\Debug\Card Game Fine.exe.config
+C:\Users\Akron1\source\repos\Card Game Fine\Card Game Fine\bin\Debug\Card Game Fine.exe
+C:\Users\Akron1\source\repos\Card Game Fine\Card Game Fine\bin\Debug\Card Game Fine.pdb
+C:\Users\Akron1\source\repos\Card Game Fine\Card Game Fine\obj\Debug\Card Game Fine.exe
+C:\Users\Akron1\source\repos\Card Game Fine\Card Game Fine\obj\Debug\Card Game Fine.pdb
