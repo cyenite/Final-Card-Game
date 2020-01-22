@@ -87,8 +87,6 @@ namespace Card_Game_Fine
                 customplayer.Add(shuffledlist[6]);
                 customplayer.Add(shuffledlist[7]);
                 shuffledlist.RemoveRange(0, 8);
-                // Console.WriteLine($" CustomPlayer Cards are: {customplayer[0]},{customplayer[1]},{customplayer[2]},{customplayer[3]}");
-
                 //Game Starts
                 while (gameover==false)
                 {
