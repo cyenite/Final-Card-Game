@@ -54,7 +54,6 @@ namespace Card_Game_Fine
                 foreach (var v in shuffledlist)
                 {
                     Console.Write($"{v}, ");
-                    //Console.Clear();
                 }
                 //Setting apart the Start card:
                 var starter = shuffledlist[0];
